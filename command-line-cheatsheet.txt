@@ -1,0 +1,19 @@
+Below is a list of basic commands for navigating and making directories.
+
+
+cd : changes the directory. If it's followed by a name (cd Desktop) for example, it will go to that directory if it's one up from the current directory. If you don't specify a directory name after typing in cd, it goes to the room of the user's directory.
+
+
+cd - : this changes the current directory back to last one you were in. If you type this more than once, you will be looped into going back a directory, forward a directory, and repeat.
+
+
+ls : this stands for list segments and just shows the contents of the current directory.
+
+
+mkdir : make directory. Type in mkdir followed by a folder name you want to create. Example would be mkdir Swift to make a Swift folder in the current directory.
+
+
+touch : touch makes a file in the current directory. You must specify the type of file or the computer can't open it. For example text.txt or word.doc.
+
+
+open : follow "open" by the name of the file. Example: 'open text.txt' and that will open the file with the default program assigned to it.
